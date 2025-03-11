@@ -1,0 +1,33 @@
+h1{
+    background-color: brown;
+    padding: 10px;
+}
+*{
+    background-color: bisque;
+}
+li {
+    list-style: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: inline;
+    margin: 10px;
+    
+}
+ul {
+    text-align: center;
+    
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}   
+
+.imagen {
+    padding: 40px;
+    
+    img {
+        height: 50%;
+        width: 50%;
+        
+    }
+}
